@@ -1,0 +1,7 @@
+.ant-input:focus {
+  box-shadow: none;
+}
+
+.editor-toolbar {
+  border: none;
+}
